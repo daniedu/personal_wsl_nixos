@@ -7,6 +7,7 @@
     ./modules/locale.nix
     ./modules/misc.nix
     ./modules/packages.nix
+    ./modules/flatpak.nix
   ];
 
   wsl.enable = true;
