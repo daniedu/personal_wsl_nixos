@@ -18,6 +18,6 @@
   stylix = {
     enable = true;
     autoEnable = false;
-    base16Scheme = "${pkgs.base16-schemes}/share/themes/arroz-con-dulce-dark.yaml";
+    base16Scheme = "${pkgs.base16-schemes}/share/themes/tango.yaml";
   };
 }
