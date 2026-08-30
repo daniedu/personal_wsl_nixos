@@ -13,5 +13,6 @@
     unrar
 
     opencode
+    aseprite
   ];
 }
